@@ -1,3 +1,5 @@
+package implicit_esc
+
 object IntToBoolean {
 
     implicit def intToBoolean(arg: Int): Boolean = arg != 0

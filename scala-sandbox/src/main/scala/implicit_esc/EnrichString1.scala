@@ -1,3 +1,5 @@
+package implicit_esc
+
 object EnrichString1 {
 
     class RichString(val src: String) {
