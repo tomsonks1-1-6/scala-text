@@ -1,3 +1,5 @@
+package error_handling
+
 object ForYieldExpression {
     val v1: Option[Int] = Some(2)
     val v2: Option[Int] = Some(3)
